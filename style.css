@@ -1,0 +1,64 @@
+body{
+text-align: center;
+background-color: rgb(133, 178, 219);
+}
+
+ div{
+   text-align: center;
+   font-family: Verdana, Geneva, Tahoma, sans-serif ;
+ }
+
+
+ 
+
+   .valorNome,
+   .valorSenha,
+   .valorSobre,
+   .valorNasc,
+   .valorRua,
+   .valorBairro,
+   .valorCasa,
+   .valorCid,
+   .valorCep,
+   .valorEstado, 
+   .valorRg{
+    height: 20px;
+    text-align: center;
+    border: 0;
+    background-color: rgb(235, 198, 157);
+    outline: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+
+ .botao{
+    height: 30px;
+    width: 100px;
+    background-color: darksalmon;
+    border: 0;
+    color: rgb(0, 0, 0);
+    border-radius: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+
+ h1{
+  font-family: Arial, Helvetica, sans-serif;
+ }
+
+ input{
+  border-radius: 10px;
+  height: 30px;
+  
+ }
+
+ .bot{
+   height: 40px;
+   width: 400px;
+   border-radius: 10px;
+   background-color: darksalmon;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+
+ .corpo{
+  text-align: center;
+background-color: rgb(133, 178, 219);
+ }
